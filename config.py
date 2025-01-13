@@ -1,0 +1,2 @@
+# todo: Add your api key here
+apikey = "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"
